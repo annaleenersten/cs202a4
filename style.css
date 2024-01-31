@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang&display=swap');
+
+body{
+    text-align: center;
+}
+body nav a{
+    font-family: 'Gowun Batang', serif;
+    color: black;
+    padding-left: 1em;
+    padding-right: 1em;;
+}
+body nav{
+    padding: 2em;
+}
